@@ -22,3 +22,5 @@ git clone https://github.com/your-username/EduConnect.git
 cd EduConnect
 npm install
 npm start
+
+url to test app on mobile: https://play.google.com/apps/internaltest/4701312785608115304
