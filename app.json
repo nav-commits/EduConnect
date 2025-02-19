@@ -30,6 +30,9 @@
         "projectId": "3d96c99f-c5ad-467e-a0ed-7a3197c60123"
       }
     },
-    "owner": "navexpodeveloper"
+    "owner": "navexpodeveloper",
+    "android": {
+      "package": "com.navexpodeveloper.boltexponativewind"
+    }
   }
 }
